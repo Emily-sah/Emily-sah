@@ -1,6 +1,6 @@
 <div>
         <h2> 👋 Olá, sou a Emily Safira</h2>
-        <p> 👩‍💻 Graduanda em Ciência da Computação pela Universidade Federal de Catalão Goiás, apaixonada por desafios tecnológicos e por criar soluções inovadoras. 
+        <p> 👩‍💻 Graduada em Ciência da Computação pela Universidade Federal de Catalão Goiás, apaixonada por desafios tecnológicos e por criar soluções inovadoras. 
         </p>
         <p> 📊 Atualmente estou focada em aprofundar meus conhecimentos em Ciência de Dados. Aprender e aplicar os princípios da análise de dados, estatísticas e machine learning para explorar conjuntos de dados, desenvolver modelos preditivos e contribuir para projetos relacionados à Ciência de Dados. Estou ansiosa para expandir meu conhecimento e aplicá-lo em desafios do mundo real.
         </p>
